@@ -10,5 +10,7 @@ public class LoopTest {
         list.forEach(item -> {
             System.out.println(item);
         });
+
+        System.out.println("Gitee代码提交");
     }
 }
