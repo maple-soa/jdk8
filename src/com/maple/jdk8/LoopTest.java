@@ -11,6 +11,6 @@ public class LoopTest {
             System.out.println(item);
         });
 
-        System.out.println("Gitee代码提交");
+        System.out.println("GitHub代码提交");
     }
 }
